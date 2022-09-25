@@ -47,11 +47,12 @@
     padding: 1rem 0;
     color: white;
   }
-  article{
+  .article{
     border-radius: 0.5rem;
     box-shadow: 0 3px 5px rgba(0,0,0,0.4);
     padding: 0.5rem;
     margin-top: 2rem;
+    height: 200px;
   }
   img{
     border-radius: 50%;
@@ -59,16 +60,18 @@
   }
   .text{
     text-align: center;
-    font-size: 0.8rem;
+    font-size: 1rem;
     margin: 1rem 0;
   }
   .btn{
     padding: 10px 0;
-    background-color: #E7EDFD;
+    background-color: #a9bdf7;
     display: inline-block;
     text-align: center;
     border-radius: 0.8rem;
     text-decoration: none;
+    color: #4174D1;
+    font-weight: 700;
   }
   
   
